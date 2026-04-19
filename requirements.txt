@@ -1,0 +1,11 @@
+openai
+pinecone
+python-dotenv
+pypdf
+langchain
+langchain-pinecone
+langchain-openai
+tiktoken
+langchain-community
+langchain-text-splitters
+pymupdf
